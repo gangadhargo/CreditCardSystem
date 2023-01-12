@@ -4,7 +4,7 @@
  Technologies Involved:
  
  Backend: Java, Spring Boot, SpringTest, Junit, Maven.  
- Frontend: React Js, Javascript, React Bootstrap Table, npm, node
+ Frontend: React Js, HTML, CSS, Javascript, React Bootstrap Table, npm, node
  
  How To Run Backend:
  
